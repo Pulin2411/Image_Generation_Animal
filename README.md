@@ -1,5 +1,5 @@
 🐾 Animals-10 Image Classification with CNN
-<img src="https://user-images.githubusercontent.com/your-screenshot-link.png" width="800" alt="Animals10 CNN Demo" />
+
 📌 Project Overview
 
 This project demonstrates image classification on the popular Animals-10 dataset
